@@ -1,0 +1,4 @@
+pygame
+lyricsgenius
+pytube
+requests
